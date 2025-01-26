@@ -3,7 +3,7 @@
 ✨ You can call me Stella </br>
 📖 This is my developer diary from scratch </br>
 🙋 I am currently studying Computer Science in Harbin Institute of Technology </br>
-📫 How to reach me: stella030@qq.com or linzhiyan030@gmail.com </br>
+📫 How to reach me: linzhiyan030@126.com</br>
 
 <h3 align="center"> 📈 Profile Views </h3>
 <p align="center">
